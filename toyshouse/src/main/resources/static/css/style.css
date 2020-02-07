@@ -1,0 +1,16 @@
+body{
+	background: #0999ce url('../images/1_393.jpg') no-repeat;
+	background-size: 100%;
+	color: #000;
+	font-size: 12px;
+	line-height: 180%;
+	margin: 18px;
+	
+}
+
+.intro{
+	background-color: #fff;
+	opacity: .9;
+	padding: 20px;
+	
+}
